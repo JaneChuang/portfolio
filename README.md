@@ -38,14 +38,14 @@ Welcome to my public showcase! This repository serves as a central hub for my la
 
 | Preview | Project Details |
 | :--- | :--- |
-| <img src="images/lighthouse.png" width="350" alt="Lighthouse Render"> | **🔧 Tools & Tech:** Blender, Cycles, Low-Poly Modeling<br><br>**✨ Key Features:**<br>• Composition & dramatic volumetric lighting<br>• Clean, optimized geometry<br><br>**🔗 Project Hub:** [Private Repository](https://github.com/JaneChuang/blender-lighthouse) |
+| <img src="images/Lighthouse.png" width="350" alt="Lighthouse Render"> | **🔧 Tools & Tech:** Blender, Cycles, Low-Poly Modeling<br><br>**✨ Key Features:**<br>• Composition & dramatic volumetric lighting<br>• Clean, optimized geometry<br><br>**🔗 Project Hub:** [Private Repository](https://github.com/JaneChuang/blender-lighthouse) |
 
 ### 🔹 Mushrooms in a Bottle
 *A highly detailed, whimsical miniature world focusing on glass refraction, organic modeling, and hand-crafted texturing.*
 
 | Preview | Project Details |
 | :--- | :--- |
-| <img src="images/mushrooms-bottle.png" width="350" alt="Mushrooms Render"> | **🔧 Tools & Tech:** Blender, Material Nodes, Organic Sculpting<br><br>**✨ Key Features:**<br>• Advanced glass shader setup<br>• Intricate asset placement within a confined space<br><br>**🔗 Project Hub:** [Private Repository](https://github.com/JaneChuang/blender-mushrooms-in-bottle) |
+| <img src="images/Mushroom%20in%20bottle.png" width="350" alt="Mushrooms Render"> | **🔧 Tools & Tech:** Blender, Material Nodes, Organic Sculpting<br><br>**✨ Key Features:**<br>• Advanced glass shader setup<br>• Intricate asset placement within a confined space<br><br>**🔗 Project Hub:** [Private Repository](https://github.com/JaneChuang/blender-mushrooms-in-bottle) |
 
 ---
 
@@ -53,6 +53,5 @@ Welcome to my public showcase! This repository serves as a central hub for my la
 If you are evaluating my technical skills for a role, I would be happy to grant you temporary access to any of the private repositories listed above, or jump on a call to walk you through the code structure.
 
 * 📧 **Email:** [Your Email Address Here]
-* 💼 **LinkedIn:** [Your LinkedIn Link Here]
 
 Thank you for visiting!

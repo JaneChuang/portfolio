@@ -20,7 +20,7 @@ Welcome to my public showcase! This repository serves as a central hub for my la
 
 | Preview | Project Details |
 | :--- | :--- |
-| <img src="images/kawaii-watermelon.gif" width="350" alt="Gameplay Preview"> | **🔧 Tools & Tech:** Unity, 2D/3D Physics, Particle Systems, URP<br><br>**✨ Key Features:**<br>• Custom collision handling<br>• Satisfying juice & splash VFX<br><br>**🔗 Project Hub:** [Private Repository](https://github.com/JaneChuang/Kawaii-Watermelon) |
+| <img src="images/Kawaii%20Watermelon.gif" width="350" alt="Gameplay Preview"> | **🔧 Tools & Tech:** Unity, 2D/3D Physics, Particle Systems, URP<br><br>**✨ Key Features:**<br>• Custom collision handling<br>• Satisfying juice & splash VFX<br><br>**🔗 Project Hub:** [Private Repository](https://github.com/JaneChuang/Kawaii-Watermelon) |
 
 ---
 

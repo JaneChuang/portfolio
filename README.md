@@ -31,7 +31,7 @@ Welcome to my public showcase! This repository serves as a central hub for my la
 
 | Preview | Project Details |
 | :--- | :--- |
-| <img src="images/halftone-shader.png" width="350" alt="Shader Preview"> | **🔧 Tools & Tech:** Blender, EEVEE, Shading Nodes<br><br>**✨ Key Features:**<br>• 100% procedural (no external textures)<br>• Dynamic reaction to light sources and shadows<br><br>**🔗 Project Hub:** [Private Repository](https://github.com/JaneChuang/blender-procedural-halftone-shader) |
+| <img src="images/comic-book-style%20halftone%20shader.png" width="350" alt="Shader Preview"> | **🔧 Tools & Tech:** Blender, EEVEE, Shading Nodes<br><br>**✨ Key Features:**<br>• 100% procedural (no external textures)<br>• Dynamic reaction to light sources and shadows<br><br>**🔗 Project Hub:** [Private Repository](https://github.com/JaneChuang/blender-procedural-halftone-shader) |
 
 ### 🔹 Blender Lighthouse
 *A stylized, atmospheric low-poly environmental scene utilizing customized lighting setups to convey a specific mood.*

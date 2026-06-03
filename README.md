@@ -52,6 +52,6 @@ Welcome to my public showcase! This repository serves as a central hub for my la
 ## ➕ How to Request Code Access
 If you are evaluating my technical skills for a role, I would be happy to grant you temporary access to any of the private repositories listed above, or jump on a call to walk you through the code structure.
 
-* 📧 **Email:** [Your Email Address Here]
+* 📧 **Email:** chuangchihyun@gmail.com
 
 Thank you for visiting!

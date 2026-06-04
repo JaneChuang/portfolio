@@ -13,7 +13,7 @@ Welcome to my public showcase! This repository serves as a central hub for my la
 
 | Preview | Project Details |
 | :--- | :--- |
-| <img src="images/top-down-shooter.gif" width="350" alt="Gameplay Preview"> | **🔧 Tools & Tech:** Unity, C#, New Input System, ScriptableObjects<br><br>**✨ Key Features:**<br>• Scalable enemy spawning logic<br><br>**🔗 Project Hub:** [Private Repository](https://github.com/JaneChuang/top-down-shooter-prototype) |
+| <img src="images/3D%20Top-Down%20Shooter.gif" width="350" alt="Gameplay Preview"> | **🔧 Tools & Tech:** Unity, C#, New Input System, ScriptableObjects<br><br>**✨ Key Features:**<br>• Scalable enemy spawning logic<br><br>**🔗 Project Hub:** [Private Repository](https://github.com/JaneChuang/top-down-shooter-prototype) |
 
 ### 🔹 Kawaii Watermelon
 *A charming, physics-based puzzle/casual game prototype focusing on juice-splashing mechanics and polished particle effects.*

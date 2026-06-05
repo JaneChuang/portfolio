@@ -34,7 +34,7 @@ Welcome to my public showcase! This repository serves as a central hub for my la
 
 | Preview | Project Details |
 | :--- | :--- |
-| <img src="images/Animation%20Beach.gif" width="350" alt="Diorama Animation Preview"> | **🔧 Tools & Tech:** Blender 4.2, Cycles Engine, Simple Deform Modifier, Timeline Keyframing<br><br>**✨ Key Features:**<br>• Seamless, procedural 120-frame animation loop<br>• Advanced path-traced lighting & translucent water shader setups<br><br>**🎓 Course Credits:** Created as part of *[Blender 3.2 Animated Beach Tutorial | Polygon Runway]* by *[Polygon Runway]*<br><br>**🔗 Project Hub:** [Private Repository](https://github.com/JaneChuang/blender-stylized-beach-diorama/tree/main) |
+| <img src="images/Animation%20Beach.gif" width="350" alt="Diorama Animation Preview"> | **🔧 Tools & Tech:** Blender 4.2, Cycles Engine, Simple Deform Modifier, Timeline Keyframing<br><br>**✨ Key Features:**<br>• Seamless, procedural 120-frame animation loop<br>• Advanced path-traced lighting & translucent water shader setups<br><br>**🎓 Course Credits:** Created as part of *[Blender 3.2 Animated Beach Tutorial] by *[Polygon Runway]*<br><br>**🔗 Project Hub:** [Private Repository](https://github.com/JaneChuang/blender-stylized-beach-diorama/tree/main) |
 
 ### 🔹 Procedural Halftone Shader
 *A custom, non-photorealistic rendering (NPR) shader that dynamically creates comic-book style halftone dots based on scene lighting.*

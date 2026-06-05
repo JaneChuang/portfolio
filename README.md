@@ -2,7 +2,10 @@
 
 Welcome to my public showcase! This repository serves as a central hub for my latest work in **Unity Game Development** and **3D Modeling & Shading (Blender)**. 
 
-> 🔒 **Note on Source Code:** The underlying project repositories are currently set to **Private** to protect proprietary assets and source code. If you are a recruiter or technical interviewer and would like a deep-dive look into the codebase, architectural choices, or project structures, please feel free to request access!
+> 🔒 **Note on Source Code & Content:** 
+> The underlying project repositories are currently set to **Private** to protect proprietary assets and source code. If you are a recruiter or technical interviewer and would like a deep-dive look into the codebase, architectural choices, or project structures, please feel free to request access!
+> 
+> 📜 *Disclaimer: Certain repositories and their foundational codebases are intended solely for personal learning and portfolio presentation. Core architecture or course logic remains the intellectual property of the respective instructors/platforms.*
 
 ---
 
@@ -13,14 +16,14 @@ Welcome to my public showcase! This repository serves as a central hub for my la
 
 | Preview | Project Details |
 | :--- | :--- |
-| <img src="images/3D%20Top-Down%20Shooter.gif" width="350" alt="Gameplay Preview"> | **🔧 Tools & Tech:** Unity, C#, New Input System, ScriptableObjects<br><br>**✨ Key Features:**<br>• Scalable enemy spawning logic<br><br>**🔗 Project Hub:** [Private Repository](https://github.com/JaneChuang/top-down-shooter-prototype) |
+| <img src="images/3D%20Top-Down%20Shooter.gif" width="350" alt="Gameplay Preview"> | **🔧 Tools & Tech:** Unity, C#, New Input System, ScriptableObjects<br><br>**✨ Key Features:**<br>• Scalable enemy spawning logic<br><br>**🎓 Course Credits:** Developed as part of *[Insert Udemy Course Title]* by *[Insert Instructor Name]*<br><br>**🔗 Project Hub:** [Private Repository](https://github.com/JaneChuang/top-down-shooter-prototype) |
 
 ### 🔹 Kawaii Watermelon
 *A charming, physics-based puzzle/casual game prototype focusing on juice-splashing mechanics and polished particle effects.*
 
 | Preview | Project Details |
 | :--- | :--- |
-| <img src="images/Kawaii%20Watermelon.gif" width="350" alt="Gameplay Preview"> | **🔧 Tools & Tech:** Unity, 2D/3D Physics, Particle Systems, URP<br><br>**✨ Key Features:**<br>• Custom collision handling<br>• Satisfying juice & splash VFX<br><br>**🔗 Project Hub:** [Private Repository](https://github.com/JaneChuang/Kawaii-Watermelon) |
+| <img src="images/Kawaii%20Watermelon.gif" width="350" alt="Gameplay Preview"> | **🔧 Tools & Tech:** Unity, 2D/3D Physics, Particle Systems, URP<br><br>**✨ Key Features:**<br>• Custom collision handling<br>• Satisfying juice & splash VFX<br><br>**🎓 Course Credits:** Developed as part of *[Insert Udemy Course Title]* by *[Insert Instructor Name]*<br><br>**🔗 Project Hub:** [Private Repository](https://github.com/JaneChuang/Kawaii-Watermelon) |
 
 ---
 
@@ -31,7 +34,7 @@ Welcome to my public showcase! This repository serves as a central hub for my la
 
 | Preview | Project Details |
 | :--- | :--- |
-| <img src="images/Animation%20Beach.gif" width="350" alt="Diorama Animation Preview"> | **🔧 Tools & Tech:** Blender 4.2, Cycles Engine, Simple Deform Modifier, Timeline Keyframing<br><br>**✨ Key Features:**<br>• Seamless, procedural 120-frame animation loop<br>• Advanced path-traced lighting & translucent water shader setups<br><br>**🔗 Project Hub:** [Private Repository](https://github.com/JaneChuang/blender-stylized-beach-diorama/tree/main) |
+| <img src="images/Animation%20Beach.gif" width="350" alt="Diorama Animation Preview"> | **🔧 Tools & Tech:** Blender 4.2, Cycles Engine, Simple Deform Modifier, Timeline Keyframing<br><br>**✨ Key Features:**<br>• Seamless, procedural 120-frame animation loop<br>• Advanced path-traced lighting & translucent water shader setups<br><br>**🎓 Course Credits:** Created as part of *[Insert Blender Course Title]* by *[Insert Instructor Name]*<br><br>**🔗 Project Hub:** [Private Repository](https://github.com/JaneChuang/blender-stylized-beach-diorama/tree/main) |
 
 ### 🔹 Procedural Halftone Shader
 *A custom, non-photorealistic rendering (NPR) shader that dynamically creates comic-book style halftone dots based on scene lighting.*

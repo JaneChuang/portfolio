@@ -48,14 +48,14 @@ Welcome to my public showcase! This repository serves as a central hub for my la
 
 | Preview | Project Details |
 | :--- | :--- |
-| <img src="images/Lighthouse.png" width="350" alt="Lighthouse Render"> | **🔧 Tools & Tech:** Blender, Cycles, Low-Poly Modeling<br><br>**✨ Key Features:**<br>• Composition & dramatic volumetric lighting<br>• Clean, optimized geometry<br><br>**🔗 Project Hub:** [Private Repository](https://github.com/JaneChuang/blender-lighthouse) |
+| <img src="images/Lighthouse.png" width="350" alt="Lighthouse Render"> | **🔧 Tools & Tech:** Blender, Cycles, Low-Poly Modeling<br><br>**✨ Key Features:**<br>• Composition & dramatic volumetric lighting<br>• Clean, optimized geometry<br><br>**🎓 Course Credits:** Created as part of *[Complete Blender Creator: 3D Modelling (Compatible with 4.3)] by *[Grant Abbitt]*<br><br>**🔗 Project Hub:** [Private Repository](https://github.com/JaneChuang/blender-lighthouse) |
 
 ### 🔹 Mushrooms in a Bottle
 *A highly detailed, whimsical miniature world focusing on glass refraction, organic modeling, and hand-crafted texturing.*
 
 | Preview | Project Details |
 | :--- | :--- |
-| <img src="images/Mushroom%20in%20bottle.png" width="350" alt="Mushrooms Render"> | **🔧 Tools & Tech:** Blender, Material Nodes, Organic Sculpting<br><br>**✨ Key Features:**<br>• Advanced glass shader setup<br>• Intricate asset placement within a confined space<br><br>**🔗 Project Hub:** [Private Repository](https://github.com/JaneChuang/blender-mushrooms-in-bottle) |
+| <img src="images/Mushroom%20in%20bottle.png" width="350" alt="Mushrooms Render"> | **🔧 Tools & Tech:** Blender, Material Nodes, Organic Sculpting<br><br>**✨ Key Features:**<br>• Advanced glass shader setup<br>• Intricate asset placement within a confined space<br><br>**🎓 Course Credits:** Created as part of *[Material Fundamentals: Procedural Textures in Blender 4] by *[Michael Bridges]*<br><br>**🔗 Project Hub:** [Private Repository](https://github.com/JaneChuang/blender-mushrooms-in-bottle) |
 
 ---
 

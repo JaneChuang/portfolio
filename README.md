@@ -23,7 +23,7 @@ Welcome to my public showcase! This repository serves as a central hub for my la
 
 | Preview | Project Details |
 | :--- | :--- |
-| <img src="images/3d-tower-defense.gif" width="350" alt="Gameplay Preview"> | **🔧 Tools & Tech:** Unity, C#, NavMesh (Pathfinding), Object Pooling, URP<br><br>**✨ Key Features:**<br>• Dynamic enemy pathfinding & wave spawning<br>• Automated turret targeting & shooting logic<br><br>**🎓 Course Credits:** Developed as part of *[Insert Udemy Course Title]* by *[Insert Instructor Name]*<br><br>**🔗 Project Hub:** [Private Repository](https://github.com/JaneChuang/3d-tower-defense-prototype) |
+| <img src="images/3D%20Tower%20Defense%20Prototype.gif" width="350" alt="Gameplay Preview"> | **🔧 Tools & Tech:** Unity, C#, NavMesh (Pathfinding), Object Pooling, URP<br><br>**✨ Key Features:**<br>• Dynamic enemy pathfinding & wave spawning<br>• Automated turret targeting & shooting logic<br><br>**🎓 Course Credits:** Developed as part of *[Learn To Create a Tower Defence Game With Unity & C#]* by *[James Doyle]*<br><br>**🔗 Project Hub:** [Private Repository](https://github.com/JaneChuang/3d-tower-defense-prototype) |
 
 ### 🔹 Kawaii Watermelon
 *A charming, physics-based puzzle/casual game prototype focusing on juice-splashing mechanics and polished particle effects.*

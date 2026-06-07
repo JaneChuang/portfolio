@@ -18,6 +18,13 @@ Welcome to my public showcase! This repository serves as a central hub for my la
 | :--- | :--- |
 | <img src="images/3D%20Top-Down%20Shooter.gif" width="350" alt="Gameplay Preview"> | **🔧 Tools & Tech:** Unity, C#, New Input System, ScriptableObjects<br><br>**✨ Key Features:**<br>• Scalable enemy spawning logic<br><br>**🎓 Course Credits:** Developed as part of *[The Complete Guide to Unity 3D : Making a Top Down Shooter]* by *[Unity Alex Dev]*<br><br>**🔗 Project Hub:** [Private Repository](https://github.com/JaneChuang/top-down-shooter-prototype) |
 
+### 🔹 3D Tower Defense Prototype
+*A classic strategy prototype focusing on pathfinding, dynamic targeting systems, and strategic grid-based placement.*
+
+| Preview | Project Details |
+| :--- | :--- |
+| <img src="images/3d-tower-defense.gif" width="350" alt="Gameplay Preview"> | **🔧 Tools & Tech:** Unity, C#, NavMesh (Pathfinding), Object Pooling, URP<br><br>**✨ Key Features:**<br>• Dynamic enemy pathfinding & wave spawning<br>• Automated turret targeting & shooting logic<br><br>**🎓 Course Credits:** Developed as part of *[Insert Udemy Course Title]* by *[Insert Instructor Name]*<br><br>**🔗 Project Hub:** [Private Repository](https://github.com/JaneChuang/3d-tower-defense-prototype) |
+
 ### 🔹 Kawaii Watermelon
 *A charming, physics-based puzzle/casual game prototype focusing on juice-splashing mechanics and polished particle effects.*
 

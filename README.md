@@ -48,7 +48,7 @@ Welcome to my public showcase! This repository serves as a central hub for my la
 
 | Preview | Project Details |
 | :--- | :--- |
-| <img src="images/stylized-bomb.png" width="350" alt="Stylized Bomb Render"> | **🔧 Tools & Tech:** Blender, Cycles/EEVEE, Procedural Texturing, Hard-Surface Modeling<br><br>**✨ Key Features:**<br>• Clean bevel management and optimized topology<br>• Stylized material node setup for vibrant, expressive colors<br><br>**🎓 Course Credits:** Created as part of *[Insert Blender Course Title]* by *[Insert Instructor Name]*<br><br>**🔗 Project Hub:** [Private Repository](https://github.com/JaneChuang/blender-stylized-bomb-device/tree/main) |
+| <img src="Boom%20Boom%20Box%20.png" width="350" alt="Stylized Bomb Render"> | **🔧 Tools & Tech:** Blender, Cycles/EEVEE, Procedural Texturing, Hard-Surface Modeling<br><br>**✨ Key Features:**<br>• Clean bevel management and optimized topology<br>• Stylized material node setup for vibrant, expressive colors<br><br>**🎓 Course Credits:** Created as part of *[Insert Blender Course Title]* by *[Insert Instructor Name]*<br><br>**🔗 Project Hub:** [Private Repository](https://github.com/JaneChuang/blender-stylized-bomb-device/tree/main) |
 
 ### 🔹 Procedural Halftone Shader
 *A custom, non-photorealistic rendering (NPR) shader that dynamically creates comic-book style halftone dots based on scene lighting.*

@@ -43,6 +43,13 @@ Welcome to my public showcase! This repository serves as a central hub for my la
 | :--- | :--- |
 | <img src="images/Animation%20Beach.gif" width="350" alt="Diorama Animation Preview"> | **🔧 Tools & Tech:** Blender 4.2, Cycles Engine, Simple Deform Modifier, Timeline Keyframing<br><br>**✨ Key Features:**<br>• Seamless, procedural 120-frame animation loop<br>• Advanced path-traced lighting & translucent water shader setups<br><br>**🎓 Course Credits:** Created as part of *[Blender 3.2 Animated Beach Tutorial] by *[Polygon Runway]*<br><br>**🔗 Project Hub:** [Private Repository](https://github.com/JaneChuang/blender-stylized-beach-diorama/tree/main) |
 
+### 🔹 Stylized Bomb Device
+*A charming, detailed 3D asset focusing on hard-surface modeling, hand-painted style procedural textures, and whimsical storytelling props.*
+
+| Preview | Project Details |
+| :--- | :--- |
+| <img src="images/stylized-bomb.png" width="350" alt="Stylized Bomb Render"> | **🔧 Tools & Tech:** Blender, Cycles/EEVEE, Procedural Texturing, Hard-Surface Modeling<br><br>**✨ Key Features:**<br>• Clean bevel management and optimized topology<br>• Stylized material node setup for vibrant, expressive colors<br><br>**🎓 Course Credits:** Created as part of *[Insert Blender Course Title]* by *[Insert Instructor Name]*<br><br>**🔗 Project Hub:** [Private Repository](https://github.com/JaneChuang/blender-stylized-bomb-device/tree/main) |
+
 ### 🔹 Procedural Halftone Shader
 *A custom, non-photorealistic rendering (NPR) shader that dynamically creates comic-book style halftone dots based on scene lighting.*
 

@@ -36,6 +36,13 @@ Welcome to my public showcase! This repository serves as a central hub for my la
 
 ## 🎨 3D Modeling & Shading (Blender)
 
+### 🔹 Stylized Midnight Street Bar
+*An atmospheric, open-air food stall environment focusing on modular prop layout dressing and complex warm emissive lighting arrays.*
+
+| Preview | Project Details |
+| :--- | :--- |
+| <img src="images/street_bar_preview.png" width="350" alt="Street Bar Preview"> | **🔧 Tools & Tech:** Blender, Cycles/EEVEE, Hard-Surface Modeling, Material Nodes<br><br>**✨ Key Features:**<br>• Translucent paper lantern emission shaders<br>• Fully modular prop asset clutter layout<br><br>**🔗 Project Hub:** [Public Repository](https://github.com/JaneChuang/Street-Bar/tree/main) |
+
 ### 🔹 Tropical Beach Diorama
 *A vibrant, Pixar-style miniature environment loop featuring custom modifier-based wind physics and high-fidelity global illumination.*
 

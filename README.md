@@ -18,6 +18,13 @@ Welcome to my public showcase! This repository serves as a central hub for my la
 | :--- | :--- |
 | <img src="images/3D%20Top-Down%20Shooter.gif" width="350" alt="Gameplay Preview"> | **🔧 Tools & Tech:** Unity, C#, New Input System, ScriptableObjects<br><br>**✨ Key Features:**<br>• Scalable enemy spawning logic<br><br>**🎓 Course Credits:** Developed as part of *[The Complete Guide to Unity 3D : Making a Top Down Shooter]* by *[Unity Alex Dev]*<br><br>**🔗 Project Hub:** [Private Repository](https://github.com/JaneChuang/top-down-shooter-prototype) |
 
+### 🔹 2D RPG Prototype
+*A classic top-down action or turn-based RPG foundation focusing on grid-based movement, state machine character controllers, and modular inventory management.*
+
+| Preview | Project Details |
+| :--- | :--- |
+| <img src="images/2d-rpg.gif" width="350" alt="Gameplay Preview"> | **🔧 Tools & Tech:** Unity, C#, 2D Tilemaps, Sprite Animation, State Machine Architecture<br><br>**✨ Key Features:**<br>• Robust player state handling (Idle, Walk, Attack)<br>• Interactive environment and entity collision detection<br><br>**🎓 Course Credits:** Developed as part of *[Insert Udemy Course Title]* by *[Insert Instructor Name]*<br><br>**🔗 Project Hub:** [Private Repository](https://github.com/JaneChuang/2D-RPG/tree/main)
+
 ### 🔹 3D Tower Defense Prototype
 *A classic strategy prototype focusing on pathfinding, dynamic targeting systems, and strategic grid-based placement.*
 

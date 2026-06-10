@@ -23,7 +23,7 @@ Welcome to my public showcase! This repository serves as a central hub for my la
 
 | Preview | Project Details |
 | :--- | :--- |
-| <img src="images/2d-rpg.gif" width="350" alt="Gameplay Preview"> | **🔧 Tools & Tech:** Unity, C#, 2D Tilemaps, Sprite Animation, State Machine Architecture<br><br>**✨ Key Features:**<br>• Robust player state handling (Idle, Walk, Attack)<br>• Interactive environment and entity collision detection<br><br>**🎓 Course Credits:** Developed as part of *[Learn how to create a 2D RPG game with Unity]* by *[Gianny Dantas]*<br><br>**🔗 Project Hub:** [Private Repository](https://github.com/JaneChuang/2D-RPG/tree/main)
+| <img src="images/2D%20RPG%20Prototype.gif" width="350" alt="Gameplay Preview"> | **🔧 Tools & Tech:** Unity, C#, 2D Tilemaps, Sprite Animation, State Machine Architecture<br><br>**✨ Key Features:**<br>• Robust player state handling (Idle, Walk, Attack)<br>• Interactive environment and entity collision detection<br><br>**🎓 Course Credits:** Developed as part of *[Learn how to create a 2D RPG game with Unity]* by *[Gianny Dantas]*<br><br>**🔗 Project Hub:** [Private Repository](https://github.com/JaneChuang/2D-RPG/tree/main)
 
 ### 🔹 3D Tower Defense Prototype
 *A classic strategy prototype focusing on pathfinding, dynamic targeting systems, and strategic grid-based placement.*

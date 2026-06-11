@@ -16,7 +16,7 @@ Welcome to my public showcase! This repository serves as a central hub for my la
 
 | Preview | Project Details |
 | :--- | :--- |
-| <img src="images/3D%20Top-Down%20Shooter.gif" width="350" alt="Gameplay Preview"> | **🔧 Tools & Tech:** Unity, C#, New Input System, ScriptableObjects<br><br>**✨ Key Features:**<br>• Scalable enemy spawning logic<br><br>**🎓 Course Credits:** Developed as part of *[The Complete Guide to Unity 3D : Making a Top Down Shooter]* by *[Unity Alex Dev]*<br><br>**🔗 Project Hub:** [Private Repository](https://github.com/JaneChuang/top-down-shooter-prototype) |
+| <img src="images/3D%20Top-Down%20Shooter.gif" width="350" alt="Gameplay Preview"> | **🔧 Tools & Tech:** Unity, C#, New Input System, ScriptableObjects<br><br>**✨ Key Features:**<br>• Scalable enemy spawning logic<br><br>**🎓 Course Credits:** Developed as part of *[The Complete Guide to Unity 3D : Making a Top Down Shooter]* by *[Unity Alex Dev]*<br><br>**🔗 Project Hub:** [Private Repository](https://github.com/JaneChuang/top-down-shooter-prototype)<br>**🌐 Playable Windows Demo:** [Top-Down Shooter Prototype Windows Build](https://github.com/JaneChuang/portfolio/releases/tag/v1.0.0) |
 
 ### 🔹 2D RPG Prototype
 *A classic top-down action or turn-based RPG foundation focusing on grid-based movement, state machine character controllers, and modular inventory management.*

@@ -30,14 +30,14 @@ Welcome to my public showcase! This repository serves as a central hub for my la
 
 | Preview | Project Details |
 | :--- | :--- |
-| <img src="images/3D%20Tower%20Defense%20Prototype.gif" width="350" alt="Gameplay Preview"> | **🔧 Tools & Tech:** Unity, C#, Object Pooling, URP<br><br>**✨ Key Features:**<br>• Dynamic enemy pathfinding & wave spawning<br>• Automated turret targeting & shooting logic<br><br>**🎓 Course Credits:** Developed as part of *[Learn To Create a Tower Defence Game With Unity & C#]* by *[James Doyle]*<br><br>**🔗 Project Hub:** [Private Repository](https://github.com/JaneChuang/3d-tower-defense-prototype) |
+| <img src="images/3D%20Tower%20Defense%20Prototype.gif" width="350" alt="Gameplay Preview"> | **🔧 Tools & Tech:** Unity, C#, Object Pooling, URP<br><br>**✨ Key Features:**<br>• Dynamic enemy pathfinding & wave spawning<br>• Automated turret targeting & shooting logic<br><br>**🎓 Course Credits:** Developed as part of *[Learn To Create a Tower Defence Game With Unity & C#]* by *[James Doyle]*<br><br>**🔗 Project Hub:** [Private Repository](https://github.com/JaneChuang/3d-tower-defense-prototype)<br>**🌐 Playable WebGL Demo:** [3D Tower Defense WebGL Build](https://3dtowerdefense.vercel.app) |
 
 ### 🔹 Kawaii Watermelon
 *A charming, physics-based puzzle/casual game prototype focusing on juice-splashing mechanics and polished particle effects.*
 
 | Preview | Project Details |
 | :--- | :--- |
-| <img src="images/Kawaii%20Watermelon.gif" width="350" alt="Gameplay Preview"> | **🔧 Tools & Tech:** Unity, 2D/3D Physics, Particle Systems, URP<br><br>**✨ Key Features:**<br>• Custom collision handling<br>• Satisfying juice & splash VFX<br><br>**🎓 Course Credits:** Developed as part of *[Create & Polish a Hyper Casual Mobile Game in Unity with me]* by *[Tabsil Makes Games]*<br><br>**🔗 Project Hub:** [Private Repository](https://github.com/JaneChuang/Kawaii-Watermelon) |
+| <img src="images/Kawaii%20Watermelon.gif" width="350" alt="Gameplay Preview"> | **🔧 Tools & Tech:** Unity, 2D/3D Physics, Particle Systems, URP<br><br>**✨ Key Features:**<br>• Custom collision handling<br>• Satisfying juice & splash VFX<br><br>**🎓 Course Credits:** Developed as part of *[Create & Polish a Hyper Casual Mobile Game in Unity with me]* by *[Tabsil Makes Games]*<br><br>**🔗 Project Hub:** [Private Repository](https://github.com/JaneChuang/Kawaii-Watermelon)<br>**🌐 Playable WebGL Demo:** [Kawaii Watermelon WebGL Build](https://kawaiiwatermelon.vercel.app/) |
 
 ---
 

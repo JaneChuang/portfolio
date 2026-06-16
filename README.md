@@ -83,7 +83,7 @@ Welcome to my public showcase! This repository serves as a central hub for my la
 
 | Preview | Project Details |
 | :--- | :--- |
-| <img src="images/Mushroom%20in%20bottle.png" width="350" alt="Mushrooms Render"> | **🔧 Tools & Tech:** Blender, Material Nodes, Organic Sculpting<br><br>**✨ Key Features:**<br>• Advanced glass shader setup<br>• Intricate asset placement within a confined space<br><br>**🎓 Course Credits:** Created as part of *[Blender 3D Beginner Tutorial: Mushrooms in Bottle] by *[3DGreenhorn]*<br><br>**🔗 Project Hub:** [Private Repository](https://github.com/JaneChuang/blender-mushrooms-in-bottle) |
+| <img src="images/Mushroom%20in%20bottle.png" width="350" alt="Mushrooms Render"> | **🔧 Tools & Tech:** Blender, Material Nodes, Organic Sculpting<br><br>**✨ Key Features:**<br>• Advanced glass shader setup<br>• Intricate asset placement within a confined space<br><br>**🎓 Course Credits:** Created as part of *[Blender 3D Beginner Tutorial: Mushrooms in Bottle] by *[3DGreenhorn]*<br><br>**🔗 Project Hub:** [Private Repository](https://github.com/JaneChuang/blender-mushrooms-in-bottle) |<br>**🌐 Playable WebGL Demo:** [Mushrooms in a Bottle WebGL Build](https://mushroomsinbottle.vercel.app/) |
 
 ---
 
